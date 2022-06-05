@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html>
-<head>
-  <meta http-equiv="refresh" content="5; URL=https://www.andresblitz.com/" />
-</head>
 <body>
-  <p>If you are not redirected in five seconds, <a href="https://www.andresblitz.com/">click here</a>.</p>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
 </body>
 </html>
